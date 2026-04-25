@@ -16,6 +16,18 @@ Consider a BJT Common Emitter amplifier using an NPN transistor:
 
 ---
 
+### Base Current
+
+IB = (VCC - VBE) / RB  
+IB = (10 - 0.7) / 200k  
+IB = 46.5 µA  
+
+### Collector Current
+
+IC = β × IB  
+IC = 100 × 46.5 µA  
+IC = 4.65 mA
+
 ## ⚙️ Step 1: DC Operating Point (Q-point)
 
 ### Base Current
