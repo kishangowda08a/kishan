@@ -30,7 +30,7 @@ gm=4.65mA25mV=0.186&nbsp;Sg_m = \frac{4.65mA}{25mV} = 0.186\ Sgm=25mV4.65mA=0.18
 
 🔍 Small Signal Equivalent Circuit
 
-
+![UI](images/gitbook-ui.png)
 
 6
 
