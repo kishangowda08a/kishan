@@ -163,5 +163,7 @@ https://notebook.zohopublic.in/embed/notes/22bt4e450d391f1884a58941ba20ed9ac2b82
 
  
 https://notebook.zohopublic.in/public/notes/22bt463a6e6412a8746aeb417dd81a2fe4df8
- 
+
+
+ <pre> ```cpp #include &lt;iostream&gt; using namespace std; int main() { cout &lt;&lt; "Hello World"; } ``` </pre>
 
